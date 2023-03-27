@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @Fischer
-- 👀 I’m interested in database/distributed system
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👀 Interested in database/distributed system
+- 🌱 Currently learning CMU15-445 BusTub
+- 💞️ Backend group leader in FlyingStudio , an organization in my college.
 
 <!---
 Fischer0522/Fischer0522 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
