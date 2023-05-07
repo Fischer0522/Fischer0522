@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Fischer
 - 👀 Interested in database/distributed system
-- 🌱 Currently learning CMU15-445 BusTub
+- 🌱 Currently learning LevelDB/etcd
 - 💞️ Backend group leader in FlyingStudio , an organization in my college.
 
 <!---
