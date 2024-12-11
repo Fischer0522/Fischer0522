@@ -1,11 +1,10 @@
 # Hi there, I'm Fischer! 👋
 
 ## About Me
-- 🔭 I’m currently working on various open-source projects.·
-- 🌱 I’m currently learning advanced data structures and algorithms.
-- 👯 I’m looking to collaborate on any data-driven projects.
-- 💬 Ask me about Python, SQL, and open-source contributions.
-- 📫 How to reach me: [fischer0522@example.com](mailto:fischer0522@example.com)
+- 🔭 Currently, I am pursuing my master's degree in Computer Science at Xiamen University.
+- 🌱 I’m working part-time at Datalayers, where I contribute to the development of database engines.
+- 💬 Ask me about Database, Storage Engine and Distributed System.
+- 📫 How to reach me: [yxy05203744@gmail.com](mailto:yxy05203744@gmail.com)
 - ⚡ Fun fact: I'm a coffee enthusiast and love hiking!
 
 ## Notable Contributions
