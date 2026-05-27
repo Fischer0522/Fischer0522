@@ -5,7 +5,6 @@
 - 🌱 I’m working part-time at Datalayers, where I contribute to the development of database engines.
 - 💬 Ask me about Database, Storage Engine and Distributed System.
 - 📫 How to reach me: [yxy05203744@gmail.com](mailto:yxy05203744@gmail.com)
-- ⚡ Fun fact: I'm a coffee enthusiast and love hiking!
 
 ## Notable Contributions
 ### Recent Pull Requests
